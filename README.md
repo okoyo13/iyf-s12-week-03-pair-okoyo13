@@ -24,4 +24,4 @@ This project is part of the IYF Week 03 Collaborative Pair Lab. It helps us prac
 
 ## Collaboration
 
-Both partners will contribute through separate feature branches and pull requests.
+Collaboration status: Rodricks is contributing through a feature branch and pull request.
